@@ -24,11 +24,8 @@ Ein umfassendes Skript für **FiveM** auf Basis von **QBCore**, das die Simulati
 ## **Installation**
 
 ### **1. Dateien kopieren**
-Kopiere die folgenden Dateien in dein Ressourcenverzeichnis:
-- `fxmanifest.lua`
-- `config.lua`
-- `server/main.lua`
-- `client/main.lua`
+Kopiere die Dateien in dein Ressourcenverzeichnis unter 'blutspende' .
+
 
 ### **2. Abhängigkeiten**
 Stelle sicher, dass folgende Ressourcen installiert sind:
